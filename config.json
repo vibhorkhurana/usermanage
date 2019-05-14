@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb+srv://dbKhurana:shreesmart@cluster0-s5u2k.mongodb.net/test?retryWrites=true",
+    "secret":"vibhorkhurana"
+}
